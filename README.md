@@ -10,6 +10,6 @@ Please file under github issues. Try to give as detailed description as possible
 - Logs showing an error
 - Pointer to lines of code responsible for misbehavior
 
-Placing proposition of a solution is encouraged in a comments section of an issue.
+Giving proposal for a solution is encouraged in a comments section of an issue.
 
 Use of tags with names of a component is welcome (i.e. `envoy`, `configure-holochain` etc).
